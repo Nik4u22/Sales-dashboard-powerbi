@@ -1,5 +1,7 @@
 # Sales-dashboard-powerbi
 
+<img width="1176" alt="image" src="https://user-images.githubusercontent.com/64134540/228738050-d878bc6f-8662-4845-a046-928678d90f6f.png">
+
 <img width="1182" alt="image" src="https://user-images.githubusercontent.com/64134540/228737386-cf4259c1-b7a6-4e97-8ed9-820c75a244e0.png">
 
 <img width="1176" alt="image" src="https://user-images.githubusercontent.com/64134540/228737492-85d2e29b-f18a-4576-99c5-b8afaad0d69b.png">
